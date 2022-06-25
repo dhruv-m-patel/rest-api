@@ -1,0 +1,8 @@
+build
+build-static
+node_modules
+coverage
+.env
+.env.example
+package-lock.json
+readme.md

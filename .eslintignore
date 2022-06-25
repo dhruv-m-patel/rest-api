@@ -1,0 +1,13 @@
+node_modules/
+build/
+build-static/
+.github/
+.env.example
+.env
+package.json
+package-lock.json
+readme.md
+tsconfig.json
+jest.config.js
+*.test.*
+*.yaml

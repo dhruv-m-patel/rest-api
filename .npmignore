@@ -1,0 +1,14 @@
+.eslintignore
+.eslintrc
+tests
+.huskyrc
+.nvmrc
+.prettierignore
+.prettierrc
+.env.example
+src
+jest.config.js
+jest.mock.js
+tsconfig.json
+typings
+.github
